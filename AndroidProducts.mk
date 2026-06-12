@@ -2,4 +2,5 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_PATH)/twrp_ASUS_I007_1.mk
 
 COMMON_LUNCH_CHOICES := \
-    twrp_ASUS_I007_1-eng
+    twrp_ASUS_I007_1-eng \
+    twrp_ASUS_I007_1-userdebug
